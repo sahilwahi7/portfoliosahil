@@ -1,1 +1,1 @@
-web: gunicorn myportfolio.wsgi --log-file -
+web: gunicorn CCMS.wsgi --log-file -
